@@ -1,0 +1,17 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+:root{
+    font-family: 'Arial Rounded MT', sans-serif;
+}
+
+body,html {
+    width: 100vw;
+    height: 100vh;
+	background: linear-gradient(to bottom,#004e92,#000428);
+    background-attachment:fixed;
+    overflow: auto;
+}
